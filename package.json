@@ -1,10 +1,13 @@
 {
-  "name": "next-routes",
-  "version": "1.5.0-beta",
+  "name": "@ghostgroup/next-routes",
+  "version": "1.5.1-beta",
   "description": "Easy to use universal dynamic routes for Next.js",
-  "repository": "fridays/next-routes",
   "main": "dist",
   "typings": "typings/next-routes.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GhostGroup/next-routes.git"
+  },
   "files": [
     "dist",
     "typings"
